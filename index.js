@@ -47,16 +47,16 @@ inquirer
     },
     {
         type : 'list',
-        message: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+        choices : ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
         name : 'license',
     },
     {
-        type : 'list',
+        type : 'input',
         message: 'What is your GitHub username?',
         name : 'username',
     },
     {
-        type : 'list',
+        type : 'input',
         message: 'What is your email address?',
         name : 'email',
     },
