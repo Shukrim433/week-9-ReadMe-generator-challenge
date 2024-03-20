@@ -4,10 +4,10 @@
 function renderLicenseBadge(license) {
 //created an array of objects for each license and with 2 properties each: badge name and badge url
   const licenseBadges = [
-    {name : 'MIT', badgeUrl : 'https://img.shields.io/badge/License-MIT-yellow.svg'},
-    {name :'APACHE 2.0', badgeUrl :'https://img.shields.io/badge/License-Apache%202.0-blue.svg'},
-    {name :'GPL 3.0', badgeUrl : 'https://img.shields.io/badge/license-GPL%203.0-blue.svg'},
-    {name :'BSD 3', badgeUrl : 'https://img.shields.io/badge/license-BSD%203-blue.svg'},
+    {name : 'MIT', badgeUrl : '![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)'},
+    {name :'APACHE 2.0', badgeUrl :'![APACHE 2.0 badge](https://img.shields.io/badge/License-Apache%202.0-blue.svg)'},
+    {name :'GPL 3.0', badgeUrl : '![GPL 3.0 badge](https://img.shields.io/badge/license-GPL%203.0-blue.svg)'},
+    {name :'BSD 3', badgeUrl : '![BSD 3 badge](https://img.shields.io/badge/license-BSD%203-blue.svg)'},
     {name :'None', badgeUrl : ''}
 ]
 

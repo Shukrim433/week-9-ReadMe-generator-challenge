@@ -1,32 +1,32 @@
-# This is the title of my project
+# test
 
   ## Badges
-  https://img.shields.io/badge/license-GPL%203.0-blue.svg
+  ![BSD 3 badge](https://img.shields.io/badge/license-BSD%203-blue.svg)
   
   ## Description
-  - This is the description explaining my project
+  - test
   
   ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Credits](#Credits)
+  - [License](#License)
   
-  ## Installation instructions
-  - these are the installation instructions for my project
+  ## Installation
+  - test
   
-  ## Usage information
-  - this is the usage informaion for my project
+  ## Usage
+  - test
   
-  ## Contribution guidelines
-  - these are the guidlines for contributing to my project
+  ## Contribution
+  - test
   
-  ## Test instructions
-  - these are the test instructions for my project
+  ## Test
+  - test
   
   ## License
-  - https://www.gnu.org/licenses/gpl-3.0.en.html
+  - https://opensource.org/license/bsd-3-clause
   
   ## Questions
-  - Shukrim433
+  - shukrim433
   - shukrim433@gmail.com
