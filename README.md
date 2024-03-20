@@ -1,27 +1,28 @@
-# test
+# test title
 
   ## Badges
   ![BSD 3 badge](https://img.shields.io/badge/license-BSD%203-blue.svg)
   
   ## Description
-  - test
+  - test description
   
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
+  - [Contribution](#Contribution)
   - [License](#License)
   
   ## Installation
-  - test
+  - test instructions
   
   ## Usage
-  - test
+  - test information
   
   ## Contribution
-  - test
+  - test guidelines
   
   ## Test
-  - test
+  - test instructions
   
   ## License
   - https://opensource.org/license/bsd-3-clause
