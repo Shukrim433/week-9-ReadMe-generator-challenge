@@ -1,10 +1,10 @@
-# hi
+# This is the title of my project
 
   ## Badges
-  - https://img.shields.io/badge/license-GPL%203.0-blue.svg
+  https://img.shields.io/badge/license-GPL%203.0-blue.svg
   
   ## Description
-  - hi
+  - This is the description explaining my project
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,20 +13,20 @@
   - [License](#license)
   
   ## Installation instructions
-  - hi
+  - these are the installation instructions for my project
   
   ## Usage information
-  - hi
+  - this is the usage informaion for my project
   
   ## Contribution guidelines
-  - hi
+  - these are the guidlines for contributing to my project
   
   ## Test instructions
-  - hi
+  - these are the test instructions for my project
   
   ## License
   - https://www.gnu.org/licenses/gpl-3.0.en.html
   
   ## Questions
-  - hi
-  - hi
+  - Shukrim433
+  - shukrim433@gmail.com

@@ -44,27 +44,27 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Badges
-  - ${renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(data.license)}
   
   ## Description
   - ${data.description}
   
   ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Credits](#Credits)
+  - [License](#License)
   
-  ## Installation instructions
+  ## Installation
   - ${data.installation}
   
-  ## Usage information
+  ## Usage
   - ${data.usage}
   
-  ## Contribution guidelines
+  ## Contribution
   - ${data.contributing}
   
-  ## Test instructions
+  ## Test
   - ${data.tests}
   
   ${renderLicenseSection(data.license)}
